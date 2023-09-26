@@ -41,18 +41,6 @@ explanation = explainer.explain_instance(input_instance, predict_function)
 
 Check out the [documentation](https://github.com/marcotcr/lime) for more detailed usage instructions, examples, and tips on how to get the most out of Lime.
 
-## Examples
-
-Lime has been applied successfully in various domains:
-
-- **Text Classification**: Explaining why a text document was classified as a specific category.
-
-- **Image Classification**: Understanding the features in an image that led to a particular classification.
-
-- **Tabular Data**: Explaining predictions in tabular data, such as credit risk scoring or medical diagnosis.
-
-- **Natural Language Processing**: Interpreting NLP models' predictions for text data.
-
 ---
 
 **Note**: Lime is developed by a community of contributors and may have received updates or changes beyond the knowledge cutoff date of this document. Please refer to the [official Lime GitHub repository](https://github.com/marcotcr/lime) for the most up-to-date information and documentation.
